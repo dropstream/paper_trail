@@ -8,7 +8,7 @@ module PaperTrail
     MAJOR = 7
     MINOR = 1
     TINY = 3
-    PRE = nil
+    PRE = 'restrictrailscheck'
 
     STRING = [MAJOR, MINOR, TINY, PRE].compact.join(".").freeze
 
