@@ -7,7 +7,7 @@ module PaperTrail
   module VERSION
     MAJOR = 7
     MINOR = 1
-    TINY = 3
+    TINY = 4
     PRE = 'restrictrailscheck'
 
     STRING = [MAJOR, MINOR, TINY, PRE].compact.join(".").freeze
